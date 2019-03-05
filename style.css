@@ -1,0 +1,46 @@
+#title
+{
+font-size: 50px;
+text-align: center;
+color:#EB8A14;
+letter-spacing:10px;
+font-weight: bolder;
+margin-left: 40px;
+font-family: 'Righteous', cursive;
+}
+body{
+background-image:url(images/ab.jpg);
+height:100%;
+width:100%;
+}
+#main{
+    margin-top: 35px;
+    margin-left: 357px;
+    height: 375px;
+    width: 685px;
+}
+#foot{
+    margin-top: 140px;
+    margin-left: 170px;
+    color:palegoldenrod;
+    font-style:italic;
+
+}
+#inputtext
+{
+
+    padding-left: 20px;
+    margin-top: -60px;
+}
+#Subscriber
+{
+    color:orangered;
+}
+#display
+{
+   
+    height: 250px;
+    width: 600px;
+    
+
+}
